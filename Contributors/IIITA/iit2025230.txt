@@ -1,0 +1,10 @@
+Name: Ayush Kumar
+College: Indian Institute Of Information Technology Allahabad
+Branch: Information Technology
+Year: 1st Year
+
+About me:
+I am a beginner in open source and learning Github.
+I love coding.
+
+Favorite movie: Interstellar
